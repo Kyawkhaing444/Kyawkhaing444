@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyaw Kyaw Khaing ( Eddie )</h1>
-<h3 align="center">A passionate four-year Knowledge Engineering student devoted all of his time and energy to AI, ML, Software Engineering.</h3>
+<h3 align="center">A Knowledge Engineering Student at UCSM, President at UCSMSU. Enthusiastic about social change with the latest AI, ML, and SE technologies.</h3>
 
 - 🔭 I’m currently leading my startup [Kawi](https://www.linkedin.com/company/kawi)
 
