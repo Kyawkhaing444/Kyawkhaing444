@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 26 of #100DaysOfCode](https://medium.com/@kyawkyawkhaing-3142/day-26-of-100daysofcode-4535581e7fa5?source=rss-e2b16d1c1b1------2)
-- [Day 25 of #100DaysOfCode](https://medium.com/@kyawkyawkhaing-3142/day-25-of-100daysofcode-52e14173ad79?source=rss-e2b16d1c1b1------2)
-- [Day 24 of #100DaysOfCode](https://medium.com/@kyawkyawkhaing-3142/day-24-of-100daysofcode-3dc5c21092ad?source=rss-e2b16d1c1b1------2)
-- [Day 23 of #100Da](https://medium.com/@kyawkyawkhaing-3142/day-23-of-100da-8bc8c65e827a?source=rss-e2b16d1c1b1------2)
+- [Day 27 of #100DaysOfCode](https://medium.com/@kyawkhaing-eddie/day-27-of-100daysofcode-b02e3beb801c?source=rss-e2b16d1c1b1------2)
+- [Day 26 of #100DaysOfCode](https://medium.com/@kyawkhaing-eddie/day-26-of-100daysofcode-4535581e7fa5?source=rss-e2b16d1c1b1------2)
+- [Day 25 of #100DaysOfCode](https://medium.com/@kyawkhaing-eddie/day-25-of-100daysofcode-52e14173ad79?source=rss-e2b16d1c1b1------2)
+- [Day 24 of #100DaysOfCode](https://medium.com/@kyawkhaing-eddie/day-24-of-100daysofcode-3dc5c21092ad?source=rss-e2b16d1c1b1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
