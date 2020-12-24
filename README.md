@@ -13,7 +13,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [### Day 30: Dec 4, 2020](https://medium.com/@kyawkhaing-eddie/day-30-dec-4-2020-b28c7eee1001?source=rss-e2b16d1c1b1------2)
 - [Day 29 of #100DaysOfCod](https://medium.com/@kyawkhaing-eddie/day-29-of-100daysofcod-feb8601e9c2b?source=rss-e2b16d1c1b1------2)
 - [Day 28 of #100DaysOfCode](https://medium.com/@kyawkhaing-eddie/day-28-of-100daysofcode-8322d2ffe609?source=rss-e2b16d1c1b1------2)
 - [Day 27 of #100DaysOfCode](https://medium.com/@kyawkhaing-eddie/day-27-of-100daysofcode-b02e3beb801c?source=rss-e2b16d1c1b1------2)
@@ -24,7 +23,6 @@
 <a href="https://www.linkedin.com/in/kyaw-kyaw-khaing/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kyaw-kyaw-khaing/" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100015239858148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://web.facebook.com/profile.php?id=100015239858148" height="30" width="40" /></a>
 <a href="https://kyawkyawkhaing-3142.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kyawkyawkhaing-3142" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/killer_kk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/killer_kk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
