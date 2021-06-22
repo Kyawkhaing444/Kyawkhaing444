@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Nodejs, ML, DL.**
 
-- 📫 How to reach me **kyawkyawkhaing@ucsm.edu.mm**
+- 📫 How to reach me **kyawkhaing.work@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/KKKhaingresume](https://bit.ly/KKKhaingresume)
 
