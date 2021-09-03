@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **kyawkhaing.work@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/KKKhaingresume](https://bit.ly/KKKhaingresume)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
