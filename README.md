@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kyaw Kyaw Khaing ( Eddie )</h1>
 
- A Software Engineer experienced in crafting full-fledged web-based software with over three years of coding experience. I often work on some freelance projects as a part-time job. Therefore, contact me if you are interested.
+ A Software Engineer experienced in crafting full-fledged web-based software with around five years of coding experience. I often work on some freelance projects as a part-time job. Therefore, contact me if you are interested.
 
-- 🔭 I’m currently working as full-stack developer in [Codigo](https://www.codigo.co/)
+- 🔭 I’m currently working as Software Engineer at [Carro](https://www.carro.co/)
 
 - 📫 How to reach me **kyawkhaing.work@gmail.com**
 
