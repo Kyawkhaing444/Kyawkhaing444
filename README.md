@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kyaw Kyaw Khaing ( Eddie )</h1>
 
- A Software Engineer experienced in crafting full-fledged web-based software with around five years of coding experience. I often work on some freelance projects as a part-time job. Therefore, contact me if you are interested.
+ A Software Engineer experienced in crafting full-fledged web-based software with around six years of coding experience. I often work on some freelance projects as a part-time job. Therefore, contact me if you are interested.
 
-- 🔭 I’m currently working as Software Engineer at [Carro](https://carro.co)
+- 🔭 I’m currently working as Software Engineer at [Agoda](https://www.agoda.com)
 
 - 📫 How to reach me **kyawkhaing.work@gmail.com**
 
